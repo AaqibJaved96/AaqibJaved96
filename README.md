@@ -9,4 +9,5 @@ Muhammad Aaqib Javed
 🎓 Education
 
 Master's in Computer Science - The University of Alabama at Birmingham
+
 Bachelor's in Computer Science - Foundation University Islamabad
