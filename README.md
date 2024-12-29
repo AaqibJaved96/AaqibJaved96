@@ -1,5 +1,6 @@
 Muhammad Aaqib Javed
  Data Scientist | Machine Learning Enthusiast | Data Analyst | Problem Solver
+ 
  I am a passionate Data Scientist and Data Analyst with expertise in machine learning, predictive modeling, and data analysis.
  With a strong foundation in Python, SQL, Java, and data visualization tools like Power BI and Tableau.
  I craft data-driven solutions to solve complex business challenges. 
